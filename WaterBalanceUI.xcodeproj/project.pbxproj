@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D894C6262764B66300EC4345 /* DailyIntake.swift in Sources */ = {isa = PBXBuildFile; fileRef = D894C6252764B66300EC4345 /* DailyIntake.swift */; };
+		D894C62A2764C4F300EC4345 /* NumberTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D894C6292764C4F300EC4345 /* NumberTextField.swift */; };
+		D894C62C2764C9F100EC4345 /* AddFirstDrink.swift in Sources */ = {isa = PBXBuildFile; fileRef = D894C62B2764C9F100EC4345 /* AddFirstDrink.swift */; };
+		D8DD045C2764EFFA009BC215 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DD045B2764EFFA009BC215 /* CustomTabBar.swift */; };
+		D8DD045E2764F6D9009BC215 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DD045D2764F6D9009BC215 /* Settings.swift */; };
+		D8DD04602764F6E7009BC215 /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DD045F2764F6E7009BC215 /* History.swift */; };
+		D8DD046227653FDF009BC215 /* WhaterIntake.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DD046127653FDF009BC215 /* WhaterIntake.swift */; };
+		D8DD046427653FFF009BC215 /* WhatIsYouGoal2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DD046327653FFF009BC215 /* WhatIsYouGoal2.swift */; };
+		D8DD046627654014009BC215 /* RemindMeEach2.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8DD046527654014009BC215 /* RemindMeEach2.swift */; };
 		D8FFA2102763BE2500C2B17C /* WaterBalanceUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FFA20F2763BE2500C2B17C /* WaterBalanceUIApp.swift */; };
-		D8FFA2122763BE2500C2B17C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FFA2112763BE2500C2B17C /* ContentView.swift */; };
 		D8FFA2142763BE2600C2B17C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8FFA2132763BE2600C2B17C /* Assets.xcassets */; };
 		D8FFA2172763BE2600C2B17C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8FFA2162763BE2600C2B17C /* Preview Assets.xcassets */; };
+		D8FFA21E2763BF5900C2B17C /* WhatIsYouGoal.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FFA21D2763BF5900C2B17C /* WhatIsYouGoal.swift */; };
+		D8FFA2222763DAE200C2B17C /* CheckBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FFA2212763DAE200C2B17C /* CheckBoxView.swift */; };
+		D8FFA2242763E1D700C2B17C /* RemindMeEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8FFA2232763E1D700C2B17C /* RemindMeEach.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D894C6252764B66300EC4345 /* DailyIntake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyIntake.swift; sourceTree = "<group>"; };
+		D894C6292764C4F300EC4345 /* NumberTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberTextField.swift; sourceTree = "<group>"; };
+		D894C62B2764C9F100EC4345 /* AddFirstDrink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFirstDrink.swift; sourceTree = "<group>"; };
+		D8DD045B2764EFFA009BC215 /* CustomTabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		D8DD045D2764F6D9009BC215 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		D8DD045F2764F6E7009BC215 /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
+		D8DD046127653FDF009BC215 /* WhaterIntake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhaterIntake.swift; sourceTree = "<group>"; };
+		D8DD046327653FFF009BC215 /* WhatIsYouGoal2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsYouGoal2.swift; sourceTree = "<group>"; };
+		D8DD046527654014009BC215 /* RemindMeEach2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindMeEach2.swift; sourceTree = "<group>"; };
 		D8FFA20C2763BE2500C2B17C /* WaterBalanceUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WaterBalanceUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8FFA20F2763BE2500C2B17C /* WaterBalanceUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterBalanceUIApp.swift; sourceTree = "<group>"; };
-		D8FFA2112763BE2500C2B17C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D8FFA2132763BE2600C2B17C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8FFA2162763BE2600C2B17C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D8FFA21D2763BF5900C2B17C /* WhatIsYouGoal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatIsYouGoal.swift; sourceTree = "<group>"; };
+		D8FFA2212763DAE200C2B17C /* CheckBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBoxView.swift; sourceTree = "<group>"; };
+		D8FFA2232763E1D700C2B17C /* RemindMeEach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemindMeEach.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +74,18 @@
 			isa = PBXGroup;
 			children = (
 				D8FFA20F2763BE2500C2B17C /* WaterBalanceUIApp.swift */,
-				D8FFA2112763BE2500C2B17C /* ContentView.swift */,
+				D8DD045B2764EFFA009BC215 /* CustomTabBar.swift */,
+				D8FFA21D2763BF5900C2B17C /* WhatIsYouGoal.swift */,
+				D8FFA2232763E1D700C2B17C /* RemindMeEach.swift */,
+				D894C6252764B66300EC4345 /* DailyIntake.swift */,
+				D894C62B2764C9F100EC4345 /* AddFirstDrink.swift */,
+				D8DD045D2764F6D9009BC215 /* Settings.swift */,
+				D8DD045F2764F6E7009BC215 /* History.swift */,
+				D8DD046127653FDF009BC215 /* WhaterIntake.swift */,
+				D8DD046327653FFF009BC215 /* WhatIsYouGoal2.swift */,
+				D8DD046527654014009BC215 /* RemindMeEach2.swift */,
+				D8FFA2212763DAE200C2B17C /* CheckBoxView.swift */,
+				D894C6292764C4F300EC4345 /* NumberTextField.swift */,
 				D8FFA2132763BE2600C2B17C /* Assets.xcassets */,
 				D8FFA2152763BE2600C2B17C /* Preview Content */,
 			);
@@ -137,8 +170,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8FFA2122763BE2500C2B17C /* ContentView.swift in Sources */,
+				D8FFA21E2763BF5900C2B17C /* WhatIsYouGoal.swift in Sources */,
+				D8DD046427653FFF009BC215 /* WhatIsYouGoal2.swift in Sources */,
+				D894C62A2764C4F300EC4345 /* NumberTextField.swift in Sources */,
+				D8DD04602764F6E7009BC215 /* History.swift in Sources */,
+				D8DD046227653FDF009BC215 /* WhaterIntake.swift in Sources */,
 				D8FFA2102763BE2500C2B17C /* WaterBalanceUIApp.swift in Sources */,
+				D8DD045E2764F6D9009BC215 /* Settings.swift in Sources */,
+				D8DD045C2764EFFA009BC215 /* CustomTabBar.swift in Sources */,
+				D894C6262764B66300EC4345 /* DailyIntake.swift in Sources */,
+				D8FFA2242763E1D700C2B17C /* RemindMeEach.swift in Sources */,
+				D8DD046627654014009BC215 /* RemindMeEach2.swift in Sources */,
+				D8FFA2222763DAE200C2B17C /* CheckBoxView.swift in Sources */,
+				D894C62C2764C9F100EC4345 /* AddFirstDrink.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

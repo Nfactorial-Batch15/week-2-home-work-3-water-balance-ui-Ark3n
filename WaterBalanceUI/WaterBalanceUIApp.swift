@@ -11,7 +11,7 @@ import SwiftUI
 struct WaterBalanceUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CustomTabBar()
         }
     }
 }
